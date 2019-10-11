@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3cc361e-6179-4003-ad61-fb9830dd373b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/subpages/Js2_Css_Clock/Js2_CSSClock.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/Js3_CSS_Variables/JS3_CSSVariables.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/Js3_CSS_Variables/Js3_CSSVariables.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/Js3_CSS_Variables/Js3_CSSVariables.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subpages/Js4_ArrayMethodsMarathon/JS4_ArrayMarath.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/subpages/Css Clock/JS2_CSSClock.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/subpages/Css Clock/Js2_CSSClock.css" beforeDir="false" afterPath="$PROJECT_DIR$/subpages/Js2_Css_Clock/Js2_CSSClock.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/subpages/Css Clock/Js2_CSSClock.html" beforeDir="false" afterPath="$PROJECT_DIR$/subpages/Js2_Css_Clock/JS2_CSSClock.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subpages/Js2_Css_Clock/Js2_CSSClock.html" beforeDir="false" afterPath="$PROJECT_DIR$/subpages/Js2_Css_Clock/Js2_CSSClock.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -74,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570823485793</updated>
-      <workItem from="1570823489441" duration="9766000" />
+      <workItem from="1570823489441" duration="12663000" />
     </task>
     <servers />
   </component>
