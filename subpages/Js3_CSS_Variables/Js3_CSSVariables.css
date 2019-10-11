@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+:root{
+    --color:#eee;
+    --spacing:10px;
+    --blur:10px;
+}
+body{
+    background-color: gray;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+img{
+    margin-top:10px;
+    width: 50%;
+    padding:var(--spacing);
+    background:var(--color);
+    filter:blur(var(--blur))
+}
+h2 span{
+    color:var(--color)
+}

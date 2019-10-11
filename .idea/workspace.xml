@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3cc361e-6179-4003-ad61-fb9830dd373b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/subpages/Js2_Css_Clock/Js2_CSSClock.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subpages/Js3_CSS_Variables/JS3_CSSVariables.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subpages/Js3_CSS_Variables/Js3_CSSVariables.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subpages/Js3_CSS_Variables/Js3_CSSVariables.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/subpages/Css Clock/Js2_CSSClock.css" beforeDir="false" afterPath="$PROJECT_DIR$/subpages/Css Clock/Js2_CSSClock.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/subpages/Css Clock/Js2_CSSClock.html" beforeDir="false" afterPath="$PROJECT_DIR$/subpages/Css Clock/Js2_CSSClock.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/subpages/Js1_Drum_Kit/Js1_Drum Kit.css" beforeDir="false" afterPath="$PROJECT_DIR$/subpages/Js1_Drum_Kit/Js1_Drum Kit.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subpages/Css Clock/JS2_CSSClock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/subpages/Css Clock/Js2_CSSClock.css" beforeDir="false" afterPath="$PROJECT_DIR$/subpages/Js2_Css_Clock/Js2_CSSClock.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subpages/Css Clock/Js2_CSSClock.html" beforeDir="false" afterPath="$PROJECT_DIR$/subpages/Js2_Css_Clock/JS2_CSSClock.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,8 +30,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1S4WjpBSOcaGAP0jZb4HfuG1oZA" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -67,12 +74,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570823485793</updated>
-      <workItem from="1570823489441" duration="7506000" />
+      <workItem from="1570823489441" duration="9766000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.html" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -84,5 +94,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

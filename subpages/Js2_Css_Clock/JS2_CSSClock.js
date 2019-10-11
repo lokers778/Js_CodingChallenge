@@ -1,20 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Css Clock</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="Js2_CSSClock.css">
-</head>
-<body>
-<div class="clock">
-    <div class="clock-face">
-        <div class="hand hour"></div>
-        <div class="hand min"></div>
-        <div class="hand sec"></div>
-    </div>
-</div>
-<script>
+document.addEventListener("DOMContentLoaded",function () {
     minHand=document.querySelector(".min")
     secHand=document.querySelector(".sec")
     hourHand=document.querySelector(".hour")
@@ -32,6 +16,4 @@
         console.log(seconds)
     }
     setInterval(setDate,1000)
-</script>
-</body>
-</html>
+});
