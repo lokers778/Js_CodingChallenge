@@ -7,8 +7,18 @@ document.addEventListener("DOMContentLoaded", function () {
             return "lol"
         }
         audio.currentTime = 0;
-        console.log(key)
         audio.play()
+        key.classList.add("pressed")
     })
+const keys =document.querySelectorAll(".key")
+        keys.forEach((key)=>{
+            key.addEventListener("transitionend", (e)=>{
+                if(e.propertyName !== "transform"){
+                    return
 
+                }
+                key.classList.remove("pressed")
+
+            })
+        })
 });

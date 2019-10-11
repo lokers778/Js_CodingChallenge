@@ -1,3 +1,43 @@
 body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.keys{
+    display: flex;
+    justify-content: space-evenly;
+    align-self: center;
+    width: 100%;
+}
+ul{
+    list-style-type: none;
 
+}
+li{
+    width: 5vw;
+    height:5vw;
+    border: 1px solid black;
+    padding: 0.5%;
+    text-align: center;
+    font-family:Arial,sans-serif;
+    font-weight: 700;
+    font-style: oblique;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+span{
+    font-size: 10px;
+    text-align: center;
+}
+.pressed{
+    border: 3px yellow dashed;
+    width: 6vw;
+    transform: scale(1.1);
+}
+.key{
+    transition: all .07s ease;
 }

@@ -2,21 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3cc361e-6179-4003-ad61-fb9830dd373b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/Js1_Drum_Kit/Js1_Drum Kit.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/Js1_Drum_Kit/Js1_Drum Kit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/Js1_Drum_Kit/sounds/boom.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/Js1_Drum_Kit/sounds/clap.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/Js1_Drum_Kit/sounds/hihat.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/Js1_Drum_Kit/sounds/kick.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/Js1_Drum_Kit/sounds/openhat.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/Js1_Drum_Kit/sounds/ride.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/Js1_Drum_Kit/sounds/snare.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/Js1_Drum_Kit/sounds/tink.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/Js1_Drum_Kit/sounds/tom.wav" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/js.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/subpages/Js1_Drum Kit.html" beforeDir="false" afterPath="$PROJECT_DIR$/subpages/Js1_Drum_Kit/Js1_Drum Kit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subpages/Js1_Drum_Kit/Js1_Drum Kit.css" beforeDir="false" afterPath="$PROJECT_DIR$/subpages/Js1_Drum_Kit/Js1_Drum Kit.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subpages/Js1_Drum_Kit/Js1_Drum Kit.html" beforeDir="false" afterPath="$PROJECT_DIR$/subpages/Js1_Drum_Kit/Js1_Drum Kit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subpages/Js1_Drum_Kit/Js1_Drum Kit.js" beforeDir="false" afterPath="$PROJECT_DIR$/subpages/Js1_Drum_Kit/Js1_Drum Kit.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570823485793</updated>
-      <workItem from="1570823489441" duration="3435000" />
+      <workItem from="1570823489441" duration="5028000" />
     </task>
     <servers />
   </component>
