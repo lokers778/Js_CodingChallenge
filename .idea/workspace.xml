@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3cc361e-6179-4003-ad61-fb9830dd373b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/subpages/Js4_ArrayMethodsMarathon/JS4_ArrayMarath.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subpages/JS7_Array_Cardio2/Js7_Array.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subpages/JS7_Array_Cardio2/Js7_Array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subpages/Js5_flexImageGallery/JS5_FlexImageGallery.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subpages/Js5_flexImageGallery/JS5_FlexImageGallery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subpages/Js5_flexImageGallery/JS5_FlexImageGallery.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/subpages/Js2_Css_Clock/Js2_CSSClock.html" beforeDir="false" afterPath="$PROJECT_DIR$/subpages/Js2_Css_Clock/Js2_CSSClock.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,10 +43,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/subpages" />
       <recent name="$PROJECT_DIR$/subpages/Js1_Drum_Kit" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/subpages/Js1_Drum_Kit" />
     </key>
   </component>
@@ -69,7 +73,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570823485793</updated>
-      <workItem from="1570823489441" duration="12663000" />
+      <workItem from="1570823489441" duration="16658000" />
+      <workItem from="1570876448201" duration="603000" />
+      <workItem from="1571082961115" duration="25000" />
+      <workItem from="1571691506828" duration="980000" />
     </task>
     <servers />
   </component>
@@ -84,7 +91,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
