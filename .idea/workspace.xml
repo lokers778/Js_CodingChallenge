@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3cc361e-6179-4003-ad61-fb9830dd373b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/subpages/Js6_Ajax_Type_Ahead/Js6 Ajax type Ahead.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/Js6_Ajax_Type_Ahead/Js6_Type_ahead.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subpages/Js6_Ajax_Type_Ahead/Js6_Ajax_Type_Ahead.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subpages/Js6_Ajax_Type_Ahead/Js6 Ajax type Ahead.js" beforeDir="false" afterPath="$PROJECT_DIR$/subpages/Js6_Ajax_Type_Ahead/Js6 Ajax type Ahead.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subpages/Js6_Ajax_Type_Ahead/Js6_Type_ahead.html" beforeDir="false" afterPath="$PROJECT_DIR$/subpages/Js6_Ajax_Type_Ahead/Js6_Type_ahead.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,9 +16,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -75,7 +76,7 @@
       <workItem from="1571082961115" duration="25000" />
       <workItem from="1571691506828" duration="1065000" />
       <workItem from="1571785730409" duration="8000" />
-      <workItem from="1571945474788" duration="2032000" />
+      <workItem from="1571945474788" duration="3145000" />
     </task>
     <servers />
   </component>
