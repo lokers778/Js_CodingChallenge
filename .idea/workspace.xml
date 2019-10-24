@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3cc361e-6179-4003-ad61-fb9830dd373b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/subpages/JS7_Array_Cardio2/Js7_Array.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/JS7_Array_Cardio2/Js7_Array.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/Js5_flexImageGallery/JS5_FlexImageGallery.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/Js5_flexImageGallery/JS5_FlexImageGallery.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/Js5_flexImageGallery/JS5_FlexImageGallery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subpages/Js6_Ajax_Type_Ahead/Js6 Ajax type Ahead.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subpages/Js6_Ajax_Type_Ahead/Js6_Type_ahead.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,7 +73,9 @@
       <workItem from="1570823489441" duration="16658000" />
       <workItem from="1570876448201" duration="603000" />
       <workItem from="1571082961115" duration="25000" />
-      <workItem from="1571691506828" duration="980000" />
+      <workItem from="1571691506828" duration="1065000" />
+      <workItem from="1571785730409" duration="8000" />
+      <workItem from="1571945474788" duration="2032000" />
     </task>
     <servers />
   </component>
