@@ -41,6 +41,7 @@ const commentsIndex=comments.findIndex((e)=>{
   return  e.id=== 823423
 
 })
+comments.splice(commentsIndex,1)
 // Find the comment with this ID
 // delete the comment with the ID of 823423
 console.log(adults,alladults,commentsId,commentsIndex)
