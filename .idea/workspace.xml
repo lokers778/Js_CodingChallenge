@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3cc361e-6179-4003-ad61-fb9830dd373b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/subpages/Js9_mustKnowDevToolTricks/Js9_devKit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subpages/Js10_multiCheckBox/Js10_multiCheckBox.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subpages/Js10_multiCheckBox/Js10_multiCheckBox.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,8 +16,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -74,7 +75,7 @@
       <workItem from="1571082961115" duration="25000" />
       <workItem from="1571691506828" duration="1065000" />
       <workItem from="1571785730409" duration="8000" />
-      <workItem from="1571945474788" duration="7643000" />
+      <workItem from="1571945474788" duration="8666000" />
     </task>
     <servers />
   </component>
