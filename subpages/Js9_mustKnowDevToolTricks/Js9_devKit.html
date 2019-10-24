@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Console Tricks!</title>
+</head>
+<body>
+
+<p onClick="makeGreen()">×BREAK×DOWN×</p>
+
+<script>
+    const dogs = [{ name: 'Snickers', age: 2 }, { name: 'hugo', age: 8 }];
+    function makeGreen() {
+        const p = document.querySelector('p');
+        p.style.color = '#BADA55';
+        p.style.fontSize = '50px';
+    }
+    //aby sprawdzić prawy przycisk myszy/ break On/attribute modifications
+    // Regular
+    console.log("hello")
+    // Interpolated
+    console.log("hello I am a %s string !","text inside")
+    console.log(`hello i am ${dogs}`)
+    // Styled
+    console.log(`%c i am color text`,'font-size:20px;color:green')
+    // warning!
+    console.warn("warning !")
+    // Error :|
+    console.error("error")
+    // Info
+    console.info("INformation")
+    // Testing - jeżeli warunek jest false odpali się
+    console.assert(1===2, "nope !")
+    // clearing
+    //console.clear()
+
+    // Viewing DOM Elements
+    console.dir(dogs)
+    // Grouping together
+    dogs.forEach((dog)=>{
+        console.group(`${dog.name}`)
+        console.log(`this is ${dog.name}`)
+        console.log(`years old : ${dog.age}`)
+        console.groupEnd`${dog.name}`
+    })
+    // counting
+
+    console.count("Js")
+    console.count("Js")
+    console.count("CSS")
+    console.count("Js")
+    console.count("Js")
+    console.count("CSS")
+    // timing
+    console.time("fetching data")
+    fetch("https://api.github.com/users/lokers778")
+    .then(data=>data.json())
+    .then(data=>{
+        console.log(data)
+        console.timeEnd("fetching data")
+    })
+    console.table(dogs)
+</script>
+</body>
+</html>
